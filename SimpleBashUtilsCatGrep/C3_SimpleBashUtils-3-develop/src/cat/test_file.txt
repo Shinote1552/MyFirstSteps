@@ -1,0 +1,165 @@
+		
+
+
+
+1 equal ()
+2 equal ()
+3 equal ()
+4 equal ()
+5 equal ()
+6 equal ()
+7 equal ()
+8 equal ()
+9 equal (	)
+10 equal (
+)
+11 equal ()
+12 equal ()
+13 equal (
+)
+14 equal ()
+15 equal ()
+16 equal ()
+17 equal ()
+18 equal ()
+19 equal ()
+20 equal ()
+
+		
+
+
+
+
+21 equal ()
+22 equal ()
+23 equal ()
+24 equal ()
+25 equal ()
+26 equal ()
+27 equal ()
+28 equal ()
+29 equal ()
+30 equal ()
+31 equal ()
+32 equal ( )
+33 equal (!)
+34 equal (")
+35 equal (#)
+36 equal ($)
+37 equal (%)
+38 equal (&)
+39 equal (')
+40 equal (()
+41 equal ())
+42 equal (*)
+43 equal (+)
+44 equal (,)
+45 equal (equal)
+46 equal (.)
+47 equal (/)
+48 equal (0)
+
+
+		
+49 equal (1)
+50 equal (2)
+51 equal (3)
+52 equal (4)
+53 equal (5)
+54 equal (6)
+55 equal (7)
+56 equal (8)
+57 equal (9)
+58 equal (:)
+59 equal (;)
+60 equal (<)
+61 equal (=)
+62 equal (>)
+63 equal (?)
+64 equal (@)
+65 equal (A)
+66 equal (B)
+67 equal (C)
+68 equal (D)
+69 equal (E)
+70 equal (F)
+71 equal (G)
+72 equal (H)
+73 equal (I)
+74 equal (J)
+75 equal (K)
+76 equal (L)
+77 equal (M)
+78 equal (N)
+79 equal (O)
+80 equal (P)
+81 equal (Q)
+82 equal (R)
+83 equal (S)
+84 equal (T)
+85 equal (U)
+86 equal (V)
+87 equal (W)
+88 equal (X)
+89 equal (Y)
+90 equal (Z)
+91 equal ([)
+92 equal (\)
+93 equal (])
+94 equal (^)
+95 equal (_)
+96 equal (`)
+97 equal (a)
+98 equal (b)
+99 equal (c)
+100 equal (d)
+101 equal (e)
+102 equal (f)
+103 equal (g)		
+104 equal (h)
+105 equal (i)
+106 equal (j)
+107 equal (k)
+108 equal (l)
+109 equal (m)
+110 equal (n)
+111 equal (o)
+112 equal (p)
+113 equal (q)
+114 equal (r)
+115 equal (s)
+116 equal (t)
+117 equal (u)
+118 equal (v)
+119 equal (w)		
+120 equal (x)
+121 equal (y)
+122 equal (z)
+123 equal ({)
+124 equal (|)
+125 equal (})
+126 equal (~)
+127 equal ()
+		!
+		
+		!!
+what          !
+
+
+!!!!!!1
+
+	 hello.
+
+     		
+
+		
+str
+
+		
+        		
+
+
+
+
+
+
